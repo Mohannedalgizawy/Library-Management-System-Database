@@ -49,5 +49,8 @@ and borrowing transactions while maintaining data integrity through normalized t
 . Applied database constraints to maintain data integrity.
 . Modeled real-world library operations using SQL database design principles.
 
+ERD
+
+The project includes an Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships.
 
 The project includes an Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships.
