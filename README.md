@@ -52,5 +52,3 @@ and borrowing transactions while maintaining data integrity through normalized t
 ERD
 
 The project includes an Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships.
-
-The project includes an Entity Relationship Diagram (ERD) illustrating the database structure, entities, attributes, and relationships.
